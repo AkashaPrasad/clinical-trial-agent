@@ -313,9 +313,9 @@ All fields are optional per turn. Set `submit_protocol: true` to finalize and sc
 ## Resources
 
 - **HuggingFace Space (environment)**: https://huggingface.co/spaces/hydra007007/clinical-trial-agent
-- **Training Colab Notebook**: [Link to be added before submission]
-- **HuggingFace Blog Post**: [Link to be added before submission]
-- **Demo Video**: [Link to be added before submission]
+- **Training Colab Notebook**: https://colab.research.google.com/drive/1dQfClqWpsspLRzClAXjjLabUvMP4egJE?usp=sharing
+- **HuggingFace Blog Post**: https://huggingface.co/spaces/hydra007007/clinical-trial-agent/blob/main/blog.md
+
 
 ---
 
